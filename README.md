@@ -110,10 +110,3 @@ Possible extensions include:
 - Jupyter Notebook
 
 ---
-
-## Author
-
-Shenova Davis  
-M.S. Data Science, Columbia University  
-GitHub: https://github.com/shenova  
-LinkedIn: https://linkedin.com/in/shenova-davis
