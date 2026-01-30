@@ -74,7 +74,7 @@ Brand groups include:
 - Fenty Beauty
 - Make Up For Ever
 
-Dataset source: Kaggle Makeup Shades Dataset.
+Dataset source: Kaggle Makeup Shades Dataset (https://www.kaggle.com/datasets/shivamb/makeup-shades-dataset?resource=download)
 
 ---
 
