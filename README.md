@@ -55,9 +55,15 @@ This index enables quantitative comparison across brand groups.
 shade-inclusivity-analysis/
 ├── data/
 │   └── shades.csv
+├── outputs/
+│   ├── avg_shade_lightness.png
+│   ├── shade_coverage_range.png
+│   ├── shade_lightness_distribution_bygroup.png
+│   └── sii.png
 ├── shade_inclusivity_analysis.ipynb
 └── README.md
 ```
+
 
 ## Dataset
 
